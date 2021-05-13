@@ -59,6 +59,8 @@ If you work with the Discord API and want to do something with presences, you mi
 53. Cities: Skylines
 54. Truckers MP
 55. Brawlstars
+56. Apex Legends
+57. Totally Accurate Battlegrounds
 
 
 ## Apps/Misc
