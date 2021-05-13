@@ -5,21 +5,13 @@ A full list of all available games/applications that make use of Discords Rich P
 ## Games
 Valorant 
 Sky block
-Twitch 
-YouTube
-PreMid
 Terraria 
 Valorant
 Rocket League
 League of legends 
 DC Legends of tomorrow 
-Netflix
-Rich presence 
-Custom status 
-Visual studio code 
 Rainbow six siege 
-Tom Clancys ghost recon breaking point
-Spotify 
+Tom Clancys ghost recon breaking point 
 Minecraft
 Xcode
 GTA 5
@@ -31,9 +23,7 @@ Microsoft flight simulator
 Peggle deluxe 
 Roblox
 osu!
-YouTube Music
 FiveM
-Google Chrome
 Paladins
 Grand Theft Auto: San Andreas
 Grip
@@ -55,4 +45,18 @@ Divinity: Original Sin 2
 Duelyst
 Battlerite
 Brawlhalla
+
+
+## Apps
+
 WebStorm
+YouTube Music
+Google Chrome
+Spotify
+Netflix
+Rich presence 
+Custom status 
+Visual studio code
+Twitch 
+YouTube
+PreMid
