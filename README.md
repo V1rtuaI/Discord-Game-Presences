@@ -3,48 +3,48 @@ A full list of all available games/applications that make use of Discords Rich P
 
 
 ## Games
-Valorant.
-Sky block.
-Terraria. 
-Valorant.
-Rocket League.
-League of legends. 
-DC Legends of tomorrow .
-Rainbow six siege. 
-Tom Clancys ghost recon breaking point.
-Minecraft.
-Xcode.
-GTA 5.
-Mobile Legends: Bang Bang.
-Heroes of the storm.
-Lunar client.
-Badlion client.
-Microsoft flight simulator.
-Peggle deluxe.
-Roblox.
-osu!.
-FiveM.
-Paladins.
-Grand Theft Auto: San Andreas.
-Grip.
-Squad.
-Move or die. 
-Hellion.
-Ballistic Overkill.
-Overwatch.
-Descenders.
-Killing floor 2. 
-Holodrive.
-Unturned.
-Foxdrive.
-Tooth and tail.
-Speedrunners.
-Call of duty: WWII.
-Payday 2.
-Divinity: Original Sin 2.
-Duelyst.
-Battlerite.
-Brawlhalla.
+1. Valorant.
+2. Sky block.
+3. Terraria. 
+4. Valorant.
+5. Rocket League.
+6. League of legends. 
+7. DC Legends of tomorrow .
+8. Rainbow six siege. 
+9. Tom Clancys ghost recon breaking point.
+10. Minecraft.
+11. Xcode.
+12. GTA 5.
+13. Mobile Legends: Bang Bang.
+14. Heroes of the storm.
+15. Lunar client.
+16. Badlion client.
+17. Microsoft flight simulator.
+18. Peggle deluxe.
+19. Roblox.
+20. osu!.
+21. FiveM.
+22 .Paladins.
+23. Grand Theft Auto: San Andreas.
+24. Grip.
+25. Squad.
+26. Move or die. 
+27. Hellion.
+28. Ballistic Overkill.
+29. Overwatch.
+30. Descenders.
+31. Killing floor 2. 
+32. Holodrive.
+33. Unturned.
+34. Foxdrive.
+35. Tooth and tail.
+36. Speedrunners.
+37.Call of duty: WWII.
+38. Payday 2.
+39. Divinity: Original Sin 2.
+40. Duelyst.
+41. Battlerite.
+42. Brawlhalla.
 
 
 ## Apps
