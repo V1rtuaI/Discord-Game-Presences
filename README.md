@@ -1,5 +1,6 @@
 # Discord-Game-Presences
 A full list of all available games/applications that make use of Discords Rich Presence. 
+If you work with the Discord API and want to do something with presences, you might notice that there is no official documentation explaining which games actually utilise the rich presence feature. And so, this list was created. If you want any added feel free to shoot me a DM on Discord @ Ethan#7000.
 
 
 ## Games
@@ -45,6 +46,17 @@ A full list of all available games/applications that make use of Discords Rich P
 40. Duelyst.
 41. Battlerite.
 42. Brawlhalla.
+43. World of Tanks
+44. Among Us
+45. Fortnite
+46. Garena Free Fire
+47. Cyberpunk 2077
+48. The Binding Of Isaac: Rebirth
+49. Assetto Corsa
+50. Counter-Strike: Global Offensive
+51. Brain Test 2: Tricky Stories
+52. Grand Theft Autho IV
+53. Cities: Skylines
 
 
 ## Apps
@@ -60,3 +72,7 @@ Visual studio code
 Twitch 
 YouTube
 PreMid
+Xbox Live
+MCreator
+BlueStacks
+
