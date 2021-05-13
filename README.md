@@ -58,6 +58,7 @@ If you work with the Discord API and want to do something with presences, you mi
 52. Grand Theft Autho IV
 53. Cities: Skylines
 54. Truckers MP
+55. Brawlstars
 
 
 ## Apps/Misc
