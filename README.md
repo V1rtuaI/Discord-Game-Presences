@@ -59,20 +59,20 @@ If you work with the Discord API and want to do something with presences, you mi
 53. Cities: Skylines
 
 
-## Apps
+## Apps/Misc
 
-WebStorm
-YouTube Music
-Google Chrome
-Spotify
-Netflix
-Rich presence 
-Custom status 
-Visual studio code
-Twitch 
-YouTube
-PreMid
-Xbox Live
-MCreator
-BlueStacks
+1. WebStorm
+2. YouTube Music
+3. Google Chrome
+4. Spotify
+5. Netflix
+6. Rich presence 
+7. Custom status 
+8. Visual studio code
+9. Twitch 
+10. YouTube
+11. PreMid
+12. Xbox Live
+13. MCreator
+14. BlueStacks
 
