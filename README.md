@@ -57,6 +57,7 @@ If you work with the Discord API and want to do something with presences, you mi
 51. Brain Test 2: Tricky Stories
 52. Grand Theft Autho IV
 53. Cities: Skylines
+54. Truckers MP
 
 
 ## Apps/Misc
